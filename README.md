@@ -40,7 +40,14 @@ npm run dev
 
 ## 🌐 Live Demo
 
-https://weather-hub-phi.vercel.app
+🔗 https://weather-hub-phi.vercel.app
+
+Try:
+- Weather Search
+- Voice Search
+- AQI Monitoring
+- Forecasts
+- Interactive Weather Maps
 ## 👨‍💻 Author
 
 **Sumit Yadav**
