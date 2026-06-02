@@ -36,12 +36,11 @@ npm run dev
 
 ## 📸 Preview
 
-Add screenshots of your application here after deployment.
+![Weather-Hub Screenshot](./preview.png)
 
 ## 🌐 Live Demo
 
-Add your Vercel deployment link here.
-
+https://weather-hub-phi.vercel.app
 ## 👨‍💻 Author
 
 **Sumit Yadav**
